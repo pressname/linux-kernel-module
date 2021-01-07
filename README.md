@@ -17,4 +17,5 @@ then you need to load this module into the kernel
 insmod helloworld.ko
 ```
 
+or just use the test.sh file. 
 
